@@ -15,6 +15,12 @@ Check the deployed web application at:
 
 `https://the-rudras-build-web3-hack.vercel.app/`
 
+Checkout the below video for full userflow of the application
+
+<a href="https://www.youtube.com/watch?v=u043kwnBuKY">
+  <img src="https://media.discordapp.net/attachments/1036324932331774042/1038736435777384468/Screenshot_2022-11-06_at_2.17.31_PM.png?width=1668&height=1045" width=600/>
+  </a>
+
 ## Run Locally
 
 Clone the project
