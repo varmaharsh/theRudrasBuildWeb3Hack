@@ -1,3 +1,12 @@
+
+# Book Store on Chain
+
+A brief description of what this project does and who it's for
+
+Check the deployed web application at:
+
+`https://the-rudras-build-web3-hack.vercel.app/`
+
 ## Run Locally
 
 Clone the project
