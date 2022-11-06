@@ -118,13 +118,13 @@ const NftCard = ({ info, onclick, getAllBooks }) => {
                   className="mt-4"
                 >
                   <Button
-                    // onClick={() =>
-                    //   window.open(
-                    //     "https://ipfs.io/ipfs/QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
-                    //     "_blank"
-                    //   )
-                    // }
-                    onclick={() => setShowModal(true)}
+                    onClick={() =>
+                      window.open(
+                        "https://ipfs.io/ipfs/QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+                        "_blank"
+                      )
+                    }
+                    // onclick={() => setShowModal(true)}
                     size="large"
                     isFullWidth
                     text="View Pdf"

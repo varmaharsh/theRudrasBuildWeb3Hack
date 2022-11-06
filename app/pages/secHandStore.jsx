@@ -86,7 +86,7 @@ const SecHandStore = () => {
               showFilters={true}
               filterBooks={handleFilterBooks}
             />
-            <div className="mt-16 flex flex-wrap justify-between w-full">
+            <div className="mt-16 flex flex-wrap justify-start w-full">
               {filteredBooks?.map((book, i) => {
                 // console.log(book);
                 return (
