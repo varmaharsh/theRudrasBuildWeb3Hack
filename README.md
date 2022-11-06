@@ -15,6 +15,9 @@ Check the deployed web application at:
 
 `https://the-rudras-build-web3-hack.vercel.app/`
 
+Link to the presentation: 
+`https://docs.google.com/presentation/d/19q5od-VCqVNxG_J40sxd9c0mR-tgZymbwttjBw1DtZw/edit?usp=sharing`
+
 Checkout the below video for full userflow of the application
 
 <a href="https://www.youtube.com/watch?v=u043kwnBuKY">
